@@ -1,0 +1,19 @@
+{
+  "name": "Improve per day",
+  "short_name": "Improve per day",
+  "description": "Daily discipline and habit tracker with streak milestones, slip-up reset, focus sprint timer, and PRO features.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#070a08",
+  "theme_color": "#070a08",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%23070a08'/%3E%3Crect x='24' y='24' width='464' height='464' rx='92' fill='none' stroke='%2310b981' stroke-width='12'/%3E%3Ctext x='256' y='305' font-family='Arial,sans-serif' font-size='175' font-weight='800' fill='%2334d399' text-anchor='middle'%3EIPD%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
